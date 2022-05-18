@@ -1,5 +1,8 @@
 {
-  "name": "gatsby-plugin-yoast-sitemap",
+  "name": "@petulant-penguin/gatsby-plugin-yoast-sitemap",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "version": "0.0.1",
   "dependencies": {
     "axios": "^0.21.1",
@@ -14,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/audal/gatsby-plugin-yoast-sitemap.git"
+    "url": "git@github.com:PetulantPenguin/gatsby-plugin-yoast-sitemap.git"
   },
   "keywords": [
     "gatsby-plugin"
