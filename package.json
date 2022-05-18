@@ -1,7 +1,7 @@
 {
   "name": "@petulant-penguin/gatsby-plugin-yoast-sitemap",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "version": "0.0.1",
   "dependencies": {
